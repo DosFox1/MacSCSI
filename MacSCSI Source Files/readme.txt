@@ -5,4 +5,4 @@ np_fmt.c - edited and hopefully corrected formatter for SCSI drives
 S1410.c - also edited and correctly formatted, also compiles!
 MAKEFILE - as is, not used 
 
-export from mini vmac mangled the files a bit - will sort out
+Formatting is a bit off, just open raw or download the files.
